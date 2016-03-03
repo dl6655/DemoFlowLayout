@@ -1,0 +1,8 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+  <item type="id" name="tv1"/>
+  <item type="id" name="tv2"/>
+  <item type="id" name="tv3"/>
+  <item type="id" name="tv4"/>
+
+</resources>
